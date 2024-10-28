@@ -14,6 +14,6 @@ A smart home IoT network simulation using Cisco Packet Tracer.
 | garage      | garage   |
 | office      | office   |
 
-(and so on) 
+(and so on- for each room) 
 
 4. You will now see a list of smart devices. Select the devices you want to operate.

@@ -5,6 +5,7 @@ A smart home IoT network simulation using Cisco Packet Tracer.
 1. Click on any of the end devices.
 2. Select Desktop → IoT monitor
 3. Enter the IoT server IP address/domain and login with any of the following credentials-
+
 | Username    | Password |
 | ----------- | -------- |
 | admin       | admin    |

@@ -6,13 +6,13 @@ A smart home IoT network simulation using Cisco Packet Tracer.
 2. Select Desktop → IoT monitor
 3. Enter the IoT server IP address/domain and login with any of the following credentials-
 
-| Username    | Password |
-| ----------- | -------- |
-| admin       | admin    |
-| hallway     | hallway  |
-| pool        | pool     |
-| garage      | garage   |
-| office      | office   |
+  | Username    | Password |
+  | ----------- | -------- |
+  | admin       | admin    |
+  | hallway     | hallway  |
+  | pool        | pool     |
+  | garage      | garage   |
+  | office      | office   |
 
 (and so on- for each room) 
 
